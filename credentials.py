@@ -1,2 +1,0 @@
-apikey = "587632524:OOYo65b7389i9wsVgV56838oUA55Fllvd58"
-
